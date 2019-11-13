@@ -38,6 +38,7 @@
         <module>spring-boot-mongodb-examples</module>
         <module>spring-boot-swagger</module>
         <module>dockercompose-springboot-mysql-nginx/app</module>
+        <module>spring-boot-thymeleaf-demo</module>
     </modules>
 
     <build>

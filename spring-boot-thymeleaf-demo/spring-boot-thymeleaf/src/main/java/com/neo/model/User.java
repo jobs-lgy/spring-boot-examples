@@ -1,12 +1,5 @@
 package com.neo.model;
 
-import org.hibernate.validator.constraints.Length;
-import org.hibernate.validator.constraints.NotEmpty;
-
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Min;
-import javax.validation.constraints.Size;
-
 public class User {
     private String name;
     private int age;
