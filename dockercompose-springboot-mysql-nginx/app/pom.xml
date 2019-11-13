@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.neo</groupId>
-	<artifactId>dockercompose-springboot-mysql-nginx</artifactId>
+	<artifactId>dockercompose-springboot-mysql-nginx-app</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>dockercompose-springboot-mysql-nginx</name>
+	<name>dockercompose-springboot-mysql-nginx-app</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
