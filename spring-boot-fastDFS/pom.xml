@@ -34,10 +34,16 @@
             <optional>true</optional>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.csource/fastdfs-client-java -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.csource</groupId>
             <artifactId>fastdfs-client-java</artifactId>
             <version>1.27-RELEASE</version>
+        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/cn.bestwu/fastdfs-client-java -->
+        <dependency>
+            <groupId>cn.bestwu</groupId>
+            <artifactId>fastdfs-client-java</artifactId>
+            <version>1.27</version>
         </dependency>
 
     </dependencies>
